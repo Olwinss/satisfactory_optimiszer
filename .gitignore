@@ -1,6 +1,7 @@
 .vs
 .user
 .filters
+.vcxproj
 x64
 
 # Prerequisites
